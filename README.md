@@ -3,6 +3,9 @@ The Customer Segmentation Analysis project aims to analyze customer data and seg
 
 The analysis focuses on clustering techniques to categorize customers into different segments. The conclusions derived from the clustering analysis provide valuable insights into customer characteristics, including family status, family size, age distribution, presence of teenagers, and income level.
 
+Project- 27
+
+
 ## Key Findings
 
 ### Cluster Number 0
